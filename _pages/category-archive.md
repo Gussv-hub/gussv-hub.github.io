@@ -1,6 +1,6 @@
 ---
-title: "Documentation"
+title: "Categories"
 layout: categories
-permalink: /documentation/
+permalink: /categories/
 author_profile: true
 ---
