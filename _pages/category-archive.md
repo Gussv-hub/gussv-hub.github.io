@@ -1,6 +1,6 @@
 ---
-title: "Posts by Category"
+title: "Documentation"
 layout: categories
-permalink: /categories/
+permalink: /documentation/
 author_profile: true
 ---
