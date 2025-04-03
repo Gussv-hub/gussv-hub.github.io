@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Gussv"
   avatar : "/assets/images/thinking.jpg"
-  bio    : "Random projetc things (for now)"
+  bio    : "Random project things (for now)"
   links:
    # - label: "Website"
    #   icon: "fas fa-fw fa-link"
